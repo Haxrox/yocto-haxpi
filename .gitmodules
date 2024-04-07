@@ -1,0 +1,14 @@
+[submodule "poky"]
+	path = poky
+	url = https://github.com/Haxrox/poky.git
+	branch = haxrox/nanbield
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = https://github.com/Haxrox/meta-openembedded.git
+	branch = nanbield
+[submodule "meta-openembedded/"]
+	branch = haxrox/nanbield
+[submodule "meta-raspberrypi"]
+	path = meta-raspberrypi
+	url = https://github.com/Haxrox/meta-raspberrypi.git
+	branch = haxrox/nanbield
